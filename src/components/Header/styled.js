@@ -5,7 +5,7 @@ export const Header = styled.header`
   position: fixed;
   z-index: 3;
   transition: "1s ease";
-  box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 0.1);
+  /**box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 0.1);*/
   background: var(--background);
 
   &.solid {
